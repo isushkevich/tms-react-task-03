@@ -1,0 +1,16 @@
+body {
+  background-image: url("img/background_tile.png");
+  font-family: "Raleway", sans-serif;
+}
+
+.main_title {
+  font-family: "Raleway", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  text-transform: capitalize;
+  margin: 0 auto 10px;
+}
+
+.centered_block {
+  text-align: center;
+}
